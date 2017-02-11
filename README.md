@@ -1,24 +1,14 @@
-# README
+##Desenvolvedor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ricardo Augusto Toledo da Silva
+ricardosilva@sistemaids.com.br
+(11) 99639.9970
 
-Things you may want to cover:
+##Descrição
 
-* Ruby version
+Website de divulgação inicial do projeto BetaTester.
 
-* System dependencies
+##Links
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+O projeto está hospedado no Heroku no seguinte endereço:
+https://betatesterapp.herokuapp.com
